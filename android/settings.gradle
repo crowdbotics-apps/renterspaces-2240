@@ -1,0 +1,3 @@
+rootProject.name = 'renterspaces_2240'
+
+include ':app'
